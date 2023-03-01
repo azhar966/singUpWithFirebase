@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "400672323310",
+    "firebase_url": "https://databaselecture-5d979-default-rtdb.firebaseio.com",
+    "project_id": "databaselecture-5d979",
+    "storage_bucket": "databaselecture-5d979.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400672323310:android:9cc9207f548f4ad16725ff",
+        "android_client_info": {
+          "package_name": "com.zebdul.basicprojectone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400672323310-ub4jkkutdbtluboj9ajrvf30ol375qu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNx_nStbOkkXd5G8l_pXFgpqspnZSHQBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400672323310-ub4jkkutdbtluboj9ajrvf30ol375qu6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400672323310:android:1260516ea216896c6725ff",
+        "android_client_info": {
+          "package_name": "com.zebdul.saumyasinghsingup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400672323310-ub4jkkutdbtluboj9ajrvf30ol375qu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNx_nStbOkkXd5G8l_pXFgpqspnZSHQBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400672323310-ub4jkkutdbtluboj9ajrvf30ol375qu6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400672323310:android:aec49dba265fc8d16725ff",
+        "android_client_info": {
+          "package_name": "com.zebdul.singup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400672323310-ub4jkkutdbtluboj9ajrvf30ol375qu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNx_nStbOkkXd5G8l_pXFgpqspnZSHQBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400672323310-ub4jkkutdbtluboj9ajrvf30ol375qu6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
